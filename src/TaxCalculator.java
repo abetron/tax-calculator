@@ -16,7 +16,7 @@ public class TaxCalculator {
 */
 
     public TaxCalculator() {
-        this.standardDeduction = 13850;
+        this.standardDeduction = 13750;
     }
 
     public double getSalary() {
